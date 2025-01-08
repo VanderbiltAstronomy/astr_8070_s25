@@ -35,8 +35,8 @@
 
 ## Lecture Notes
 
-[Lecture 1](lectures/notes/Lecture%201.pdf) (01/07/2025)
-[Lecture 2](lectures/notes/Lecture%202.pdf) (01/09/2025)
+* [Lecture 1](lectures/notes/Lecture%201.pdf) (01/07/2025)
+* [Lecture 2](lectures/notes/Lecture%202.pdf) (01/09/2025)
 <!-- * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/18/2025) -->
 <!-- * [Lecture 4](lectures/notes/Lecture%204.pdf) (01/23/2025) -->
 <!-- * [Lecture 5](lectures/notes/Lecture%205.pdf) (01/25/2025) -->
