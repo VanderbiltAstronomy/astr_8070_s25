@@ -12,8 +12,8 @@
 * Lecture 2 (01/09/2025): [Introduction To Probability & Statistics: I](lectures/Lecture_2.ipynb)
 * Lecture 3 (01/14/2025): [Introduction To Probability & Statistics: II](lectures/Lecture_3.ipynb)
 * Lecture 4 (01/16/2025): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
-<!-- * Lecture 5 (01/25/2025): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb) -->
-<!-- * Lecture 6 (01/30/2025): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb) -->
+* Lecture 5 (01/21/2025): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
+* Lecture 6 (01/23/2025): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 <!-- * Lecture 7 (02/01/2025): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb) -->
 <!-- * Lecture 8 (02/06/2025): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb) -->
 <!-- * Lecture 9 (02/08/2025): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb) -->
@@ -39,8 +39,8 @@
 * [Lecture 2](lectures/notes/Lecture%202.pdf) (01/09/2025)
 * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/14/2025)
 * [Lecture 4](lectures/notes/Lecture%204.pdf) (01/16/2025)
-<!-- * [Lecture 5](lectures/notes/Lecture%205.pdf) (01/25/2025) -->
-<!-- * [Lecture 6](lectures/notes/Lecture%206.pdf) (01/30/2025) -->
+* [Lecture 5](lectures/notes/Lecture%205.pdf) (01/21/2025)
+* [Lecture 6](lectures/notes/Lecture%206.pdf) (01/23/2025)
 <!-- * [Lecture 7](lectures/notes/Lecture%207.pdf) (02/01/2025) -->
 <!-- * [Lecture 8](lectures/notes/Lecture%208.pdf) (02/06/2025) -->
 <!-- * [Lecture 9](lectures/notes/Lecture%209.pdf) (02/08/2025) -->
@@ -64,7 +64,7 @@
 ## Assignments
 
 * Homework 1 (due 01/11/2025 @ 11.59pm CST) [vu_astr8070_s25_hw1.ipynb](coursework/homeworks/vu_astr8070_s25_hw1.ipynb)
-<!-- * Homework 2 (due 01/27/2025 @ 11.59pm CST) [vu_astr8070_s25_hw2.ipynb](coursework/homeworks/vu_astr8070_s25_hw2.ipynb) -->
+* Homework 2 (due 01/25/2025 @ 11.59pm CST) [vu_astr8070_s25_hw2.ipynb](coursework/homeworks/vu_astr8070_s25_hw2.ipynb)
 <!-- * Homework 3 (due 02/10/2025 @ 11.59pm CST) [vu_astr8070_s25_hw3.ipynb](coursework/homeworks/vu_astr8070_s25_hw3.ipynb) -->
 <!-- * Homework 4 (due 02/24/2025 @ 11.59pm CST) [vu_astr8070_s25_hw4.ipynb](coursework/homeworks/vu_astr8070_s25_hw4.ipynb) -->
 <!-- * Homework 5 (due 03/02/2025 @ 11.59pm CST) [vu_astr8070_s25_hw5.ipynb](coursework/homeworks/vu_astr8070_s25_hw5.ipynb) -->
