@@ -65,7 +65,7 @@
 
 * Homework 1 (due 01/11/2025 @ 11.59pm CST) [vu_astr8070_s25_hw1.ipynb](coursework/homeworks/vu_astr8070_s25_hw1.ipynb)
 * Homework 2 (due 01/25/2025 @ 11.59pm CST) [vu_astr8070_s25_hw2.ipynb](coursework/homeworks/vu_astr8070_s25_hw2.ipynb)
-<!-- * Homework 3 (due 02/10/2025 @ 11.59pm CST) [vu_astr8070_s25_hw3.ipynb](coursework/homeworks/vu_astr8070_s25_hw3.ipynb) -->
+* Homework 3 (due 02/01/2025 @ 11.59pm CST) [vu_astr8070_s25_hw3.ipynb](coursework/homeworks/vu_astr8070_s25_hw3.ipynb)
 <!-- * Homework 4 (due 02/24/2025 @ 11.59pm CST) [vu_astr8070_s25_hw4.ipynb](coursework/homeworks/vu_astr8070_s25_hw4.ipynb) -->
 <!-- * Homework 5 (due 03/02/2025 @ 11.59pm CST) [vu_astr8070_s25_hw5.ipynb](coursework/homeworks/vu_astr8070_s25_hw5.ipynb) -->
 <!-- * Homework 6 (due 03/23/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw6.ipynb](coursework/homeworks/vu_astr8070_s25_hw6.ipynb) -->
