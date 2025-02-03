@@ -16,8 +16,8 @@
 * Lecture 6 (01/23/2025): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 * Lecture 7 (01/28/2025): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
 * Lecture 8 (01/30/2025): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
-<!-- * Lecture 9 (02/08/2025): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb) -->
-<!-- * Lecture 10 (02/13/2025): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb) -->
+* Lecture 9 (02/04/2025): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
+* Lecture 10 (02/06/2025): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
 <!-- * Lecture 11 (02/15/2025): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb) -->
 <!-- * Lecture 12 (02/20/2025): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb) -->
 <!-- * Lecture 13 (02/22/2025): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb) -->
@@ -43,8 +43,8 @@
 * [Lecture 6](lectures/notes/Lecture%206.pdf) (01/23/2025)
 * [Lecture 7](lectures/notes/Lecture%207.pdf) (01/28/2025)
 * [Lecture 8](lectures/notes/Lecture%208.pdf) (01/30/2025)
-<!-- * [Lecture 9](lectures/notes/Lecture%209.pdf) (02/08/2025) -->
-<!-- * [Lecture 10](lectures/notes/Lecture%2010.pdf) (02/13/2025) -->
+* [Lecture 9](lectures/notes/Lecture%209.pdf) (02/04/2025)
+* [Lecture 10](lectures/notes/Lecture%2010.pdf) (02/06/2025)
 <!-- * [Lecture 11](lectures/notes/Lecture%2011.pdf) (02/15/2025) -->
 <!-- * [Lecture 12](lectures/notes/Lecture%2012.pdf) (02/20/2025) -->
 <!-- * [Lecture 13](lectures/notes/Lecture%2013.pdf) (02/22/2025) -->
