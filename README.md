@@ -22,8 +22,8 @@
 * Lecture 12 (02/13/2025): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 * Lecture 13 (02/18/2025): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
 * Lecture 14 (02/20/2025): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
-<!-- * Lecture 15 (02/29/2025): [Dimensional Reduction: I](lectures/Lecture_15.ipynb) -->
-<!-- * Lecture 16 (03/05/2025): [Dimensional Reduction: II](lectures/Lecture_16.ipynb) -->
+* Lecture 15 (02/25/2025): [Dimensional Reduction: I](lectures/Lecture_15.ipynb)
+* Lecture 16 (03/27/2025): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
 <!-- * Lecture 17 (03/07/2025): [Regression: I](lectures/Lecture_17.ipynb) -->
 <!-- * Lecture 18 (03/19/2025): [Regression: II](lectures/Lecture_18.ipynb) -->
 <!-- * Lecture 19 (03/21/2025): [Classification: I](lectures/Lecture_19.ipynb) -->
