@@ -24,8 +24,8 @@
 * Lecture 14 (02/20/2025): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
 * Lecture 15 (02/25/2025): [Dimensional Reduction: I](lectures/Lecture_15.ipynb)
 * Lecture 16 (02/27/2025): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
-<!-- * Lecture 17 (03/07/2025): [Regression: I](lectures/Lecture_17.ipynb) -->
-<!-- * Lecture 18 (03/19/2025): [Regression: II](lectures/Lecture_18.ipynb) -->
+* Lecture 17 (03/04/2025): [Regression: I](lectures/Lecture_17.ipynb)
+* Lecture 18 (03/06/2025): [Regression: II](lectures/Lecture_18.ipynb)
 <!-- * Lecture 19 (03/21/2025): [Classification: I](lectures/Lecture_19.ipynb) -->
 <!-- * Lecture 20 (03/26/2025): [Classification: II](lectures/Lecture_20.ipynb) -->
 <!-- * Lecture 21 (04/02/2025): [Deep Learning: I](lectures/Lecture_21.ipynb) -->
@@ -51,8 +51,8 @@
 * [Lecture 14](lectures/notes/Lecture%2014.pdf) (02/20/2025)
 * [Lecture 15](lectures/notes/Lecture%2015.pdf) (02/25/2025)
 * [Lecture 16](lectures/notes/Lecture%2016.pdf) (02/27/2025)
-<!-- * [Lecture 17](lectures/notes/Lecture%2017.pdf) (03/07/2025) -->
-<!-- * [Lecture 18](lectures/notes/Lecture%2018.pdf) (03/19/2025) -->
+* [Lecture 17](lectures/notes/Lecture%2017.pdf) (03/04/2025)
+* [Lecture 18](lectures/notes/Lecture%2018.pdf) (03/06/2025)
 <!-- * [Lecture 19](lectures/notes/Lecture%2019.pdf) (03/21/2025) -->
 <!-- * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/26/2025) -->
 <!-- * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/02/2025) -->
