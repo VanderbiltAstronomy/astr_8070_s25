@@ -28,8 +28,8 @@
 * Lecture 18 (03/06/2025): [Regression: II](lectures/Lecture_18.ipynb)
 * Lecture 19 (03/25/2025): [Classification: I](lectures/Lecture_19.ipynb)
 * Lecture 20 (03/27/2025): [Classification: II](lectures/Lecture_20.ipynb)
-<!-- * Lecture 21 (04/02/2025): [Deep Learning: I](lectures/Lecture_21.ipynb) -->
-<!-- * Lecture 22 (04/04/2025): [Deep Learning: II](lectures/Lecture_22.ipynb) -->
+* Lecture 21 (04/01/2025): [Deep Learning: I](lectures/Lecture_21.ipynb)
+* Lecture 22 (04/03/2025): [Deep Learning: II](lectures/Lecture_22.ipynb)
 <!-- * Lecture 23 (04/09/2025): [Time Series Analysis: I](lectures/Lecture_23.ipynb) -->
 <!-- * Lecture 24 (04/16/2025): [Time Series Analysis: II](lectures/Lecture_24.ipynb) -->
 
@@ -55,8 +55,8 @@
 * [Lecture 18](lectures/notes/Lecture%2018.pdf) (03/06/2025)
 * [Lecture 19](lectures/notes/Lecture%2019.pdf) (03/25/2025)
 * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/27/2025)
-<!-- * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/02/2025) -->
-<!-- * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/04/2025) -->
+* [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/01/2025)
+* [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/03/2025)
 <!-- * [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/09/2025) -->
 <!-- * [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%20Series%20Wrap-up.pdf) (04/16/2025) -->
 
