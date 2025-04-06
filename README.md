@@ -30,8 +30,8 @@
 * Lecture 20 (03/27/2025): [Classification: II](lectures/Lecture_20.ipynb)
 * Lecture 21 (04/01/2025): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/03/2025): [Deep Learning: II](lectures/Lecture_22.ipynb)
-<!-- * Lecture 23 (04/09/2025): [Time Series Analysis: I](lectures/Lecture_23.ipynb) -->
-<!-- * Lecture 24 (04/16/2025): [Time Series Analysis: II](lectures/Lecture_24.ipynb) -->
+* Lecture 23 (04/08/2025): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
+* Lecture 24 (04/10/2025): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 
 ## Lecture Notes
 
@@ -57,8 +57,8 @@
 * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/27/2025)
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/01/2025)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/03/2025)
-<!-- * [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/09/2025) -->
-<!-- * [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%20Series%20Wrap-up.pdf) (04/16/2025) -->
+* [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/08/2025)
+* [Lecture 24](lectures/notes/Lecture%2024.pdf) and [Time-series Wrap-up](lectures/notes/Time%20Series%20Wrap-up.pdf) (04/10/2025)
 
 
 ## Assignments
@@ -70,5 +70,4 @@
 * Homework 5 (due 03/01/2025 @ 11.59pm CST) [vu_astr8070_s25_hw5.ipynb](coursework/homeworks/vu_astr8070_s25_hw5.ipynb)
 * Homework 6 (due 03/22/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw6.ipynb](coursework/homeworks/vu_astr8070_s25_hw6.ipynb)
 * Homework 7 (due 03/29/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw7.ipynb](coursework/homeworks/vu_astr8070_s25_hw7.ipynb)
-<!-- * Homework 8 (due 04/06/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw8.ipynb](coursework/homeworks/vu_astr8070_s25_hw8.ipynb) -->
-<!-- * Homework 9 (due 04/15/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw9.ipynb](coursework/homeworks/vu_astr8070_s25_hw9.ipynb) -->
+* Homework 8 (due 04/12/2025 @ 11.59pm CDT) [vu_astr8070_s25_hw8.ipynb](coursework/homeworks/vu_astr8070_s25_hw8.ipynb)
